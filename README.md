@@ -1,7 +1,7 @@
-# Sistema informático para una cooperativa agrónoma
+# Sistema informático para una cooperativa agraria
 
 Este será un sistema informático para una cooperativa que proporcione
-diferentes herramientas para los participantes de una cooperativa agrónoma
+diferentes herramientas para los participantes de una cooperativa agraria
 ubicada en la provincia de Granada.
 
 La principal función que aportará este sistema es medir cómo de conveniente
